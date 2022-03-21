@@ -17,6 +17,8 @@ Hi there 👋
 
 I'm a Minecraft (Java) and Fullstack developer, interested in teaching people programming.<br>
 Most of my projects are commercial, but you can view some opensource projects in pinned repositories.<br><br>
+I understand English, but I can't write it correctly 😭<br><br>
+To order, you can contact me:<br>
 [![siteIcon]][siteURL] [![vkIcon]][vkURL] [![telegramIcon]][telegramURL] ![discordIcon] [![youtubeIcon]][youtubeURL]
 
 ### 💪 Skills
