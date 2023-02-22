@@ -15,36 +15,29 @@
 ### 🧑 About me
 Hi there 👋
 
-I'm a Minecraft (Java) and Fullstack developer, interested in teaching people programming.<br>
+I'm a Fullstack JavaScript developer, interested in teaching people programming.<br>
 Most of my projects are commercial, but you can view some opensource projects in pinned repositories.<br><br>
 I understand English, but I can't write it correctly 😭<br><br>
 To order, you can contact me:<br>
 [![siteIcon]][siteURL] [![vkIcon]][vkURL] [![telegramIcon]][telegramURL] ![discordIcon] [![youtubeIcon]][youtubeURL]
 
-### 💪 Skills
-#### ➜ Minecraft
-| Name | Level | Description |
-|:---:|:---:|---|
-| [Spigot API](https://hub.spigotmc.org/javadocs/spigot/) | High | API of the Minecraft server core based on Bukkit |
-| [Paper API](https://papermc.io/javadocs/paper/1.16/) | Medium | API of extended Spigot core |
-| [Netty IO](https://netty.io/) | Medium | The async network application framework with high perfomance |
-| [<img src="https://simpleicons.org/icons/apachemaven.svg" width="50"><br>Maven](https://maven.apache.org/) | High | Project build system for Java |
-| [<img src="https://simpleicons.org/icons/gradle.svg" width="50"><br>Gradle](https://gradle.org/) | Medium | Another project build system for Java |
-
+### 💪 Used Technologies
 #### ➜ Web
-| Name | Level | Description |
-|:---:|:---:|---|
-| [<img src="https://simpleicons.org/icons/react.svg" width="50"><br>React](https://reactjs.org/docs/getting-started.html/) | High | Library of user interfaces built on DOM modification |
-| [<img src="https://simpleicons.org/icons/redux.svg" width="50"><br>Redux](https://redux.js.org/) | Medium | Web application state manager |
-| [<img src="https://simpleicons.org/icons/sass.svg" width="50"><br>SCSS](https://sass-lang.com/documentation/) | High | Extended version of the CSS style language |
-| [<img src="https://simpleicons.org/icons/nodedotjs.svg" width="50"><br>NodeJS](https://nodejs.org/en/) | Medium | Server part of applications using JavaScript |
-| [<img src="https://simpleicons.org/icons/socketdotio.svg" width="50"><br>Socket.io](https://socket.io/docs/v4/) | Medium | Library for real-time data exchange via WebSocket |
-| [<img src="https://simpleicons.org/icons/webpack.svg" width="50"><br>Webpack](https://webpack.js.org/) | Medium | Web application module builder |
-| [<img src="https://simpleicons.org/icons/postcss.svg" width="50"><br>PostCSS](https://netty.io/) | Medium | CSS postprocessor using JavaScript modules |
+**Frontend**: React, Redux Toolkit, RTKQuery, SCSS.<br>
+**Backend**: NestJS.<br>
+**Databases**: MongoDB, MySQL and Prisma ORM.<br>
+**Tools**: Vite, Webpack.
+
+#### ➜ Java
+**Common**: Java 8-16, Reflections.<br>
+**Libraries worth paying attention to**: Guice with extensions (Dependency Injection), Lombok.<br>
+**Assembly systems**: Maven ( modules, building corporate poms ), Gradle.<br>
+
+##### Minecraft
+**Cores**: Spigot/Paper including basic level optimization ( e.g. distanceSquared, small use of getLocation due to creation of a new instance ).<br>
+**Packets**: At level of working with ProtocolLib ( e.g. creating holograms and cosmetics ).<br>
+**Other**: Good knowledge of creating resource packs in field of custom items, sounds, interfaces and models using ModelEngine.<br>
+Netty ( in quality of creating core of project with automatic deployment of servers, storage and transfer of information about players between servers, etc. ).<br>
 
 #### ➜ Other
-| Name | Level | Description |
-|:---:|:---:|---|
-| <img src="https://simpleicons.org/icons/git.svg" width="50"><br>Git | High | Version control system |
-| <img src="https://simpleicons.org/icons/docker.svg" width="50"><br>[Docker](https://www.docker.com/) | Medium | An application for automatic deployment and management of applications with support for conterization |
-| <img src="https://simpleicons.org/icons/gitlab.svg" width="50"><br>GitLab CI/CD | High | Automatic assembly and deployment of applications from GitLab |
+Git, Docker, GitLab CI/DI.
