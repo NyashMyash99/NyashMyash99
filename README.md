@@ -4,7 +4,7 @@
 ### 🧑 About me
 Hi there 👋
 
-I'm a Fullstack JavaScript and Minecraft developer, interested in teaching people programming.
+I'm a Senior Backend TypeScript developer with Middle Frontend skills, interested in teaching people programming.
 
 ➜ You can get to know me well by reading [my resume](https://resume.nyashmyash99.dev).
 
